@@ -1,6 +1,6 @@
 This ia a tutorial on how to  access structures from Protein Data Bank from python.
-You may modify it for your needs.
+And get the distribution of dates when those structures were deposited to PDB.
+You may modify it for your needs. 
 
 Comment: There are different packages one can use to download structures from PDB.
 Here we use Bio.PDB. 
-
